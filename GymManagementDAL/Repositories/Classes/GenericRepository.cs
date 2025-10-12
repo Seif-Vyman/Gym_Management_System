@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace GymManagementDAL.Repositories.Classes
 {
-    public class GenericRepository<TEntity> : IGenericRepository<TEntity> where TEntity : BaseEntity
+    public class GenericRepository<TEntity> : IGenericRepository<TEntity> where TEntity : BaseEntity , new()
     {
         private readonly GymDbContext _dbContext;
 
@@ -18,26 +18,24 @@ namespace GymManagementDAL.Repositories.Classes
         {
             _dbContext = dbContext;
         }
-        public int Add(TEntity entity)
+        public void Add(TEntity entity) => _dbContext.Add(entity);
+
+
+        public void Delete(TEntity entity) => _dbContext.Remove(entity);
+
+
+        public ICollection<TEntity> GetAll(Func<TEntity, bool>? condition = null)
         {
-            _dbContext.Add(entity);
-            return _dbContext.SaveChanges();
+            if(condition is null)
+                return _dbContext.Set<TEntity>().AsNoTracking().ToList();
+            return _dbContext.Set<TEntity>().AsNoTracking().Where(condition).ToList();
         }
 
-        public int Delete(int id)
-        {
-            _dbContext.Remove(GetById(id));
-            return _dbContext.SaveChanges();
-        }
-
-        public ICollection<TEntity> GetAll() => _dbContext.Set<TEntity>().AsNoTracking().ToList();
+        //public ICollection<TEntity> GetAll() => _dbContext.Set<TEntity>().AsNoTracking().ToList();
 
         public TEntity? GetById(int id) => _dbContext.Set<TEntity>().Find(id);
 
-        public int Update(TEntity entity)
-        {
-            _dbContext.Update(entity);
-            return _dbContext.SaveChanges();
-        }
+        public void Update(TEntity entity) => _dbContext.Update(entity);
+
     }
 }

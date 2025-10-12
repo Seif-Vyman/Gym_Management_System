@@ -10,7 +10,7 @@ namespace GymManagementDAL.Entities
     {
         public decimal Height { get; set; }
         public decimal Weight { get; set; }
-        public string? BLoodType { get; set; }
+        public string? BloodType { get; set; }
         public string? Note { get; set; }
 
         #region Relationship
