@@ -1,0 +1,30 @@
+F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementBLL\bin\Debug\net9.0\GymManagementBLL.deps.json
+F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementBLL\bin\Debug\net9.0\GymManagementBLL.dll
+F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementBLL\bin\Debug\net9.0\GymManagementBLL.pdb
+F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementBLL\bin\Debug\net9.0\GymManagementDAL.dll
+F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementBLL\bin\Debug\net9.0\GymManagementDAL.pdb
+F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementBLL\obj\Debug\net9.0\GymManagementBLL.csproj.AssemblyReference.cache
+F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementBLL\obj\Debug\net9.0\GymManagementBLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementBLL\obj\Debug\net9.0\GymManagementBLL.AssemblyInfoInputs.cache
+F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementBLL\obj\Debug\net9.0\GymManagementBLL.AssemblyInfo.cs
+F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementBLL\obj\Debug\net9.0\GymManagementBLL.csproj.CoreCompileInputs.cache
+F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementBLL\obj\Debug\net9.0\GymManag.CEDF2700.Up2Date
+F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementBLL\obj\Debug\net9.0\GymManagementBLL.dll
+F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementBLL\obj\Debug\net9.0\refint\GymManagementBLL.dll
+F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementBLL\obj\Debug\net9.0\GymManagementBLL.pdb
+F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementBLL\obj\Debug\net9.0\ref\GymManagementBLL.dll
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementBLL\bin\Debug\net9.0\GymManagementBLL.deps.json
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementBLL\bin\Debug\net9.0\GymManagementBLL.dll
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementBLL\bin\Debug\net9.0\GymManagementBLL.pdb
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementBLL\bin\Debug\net9.0\GymManagementDAL.dll
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementBLL\bin\Debug\net9.0\GymManagementDAL.pdb
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementBLL\obj\Debug\net9.0\GymManagementBLL.csproj.AssemblyReference.cache
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementBLL\obj\Debug\net9.0\GymManagementBLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementBLL\obj\Debug\net9.0\GymManagementBLL.AssemblyInfoInputs.cache
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementBLL\obj\Debug\net9.0\GymManagementBLL.AssemblyInfo.cs
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementBLL\obj\Debug\net9.0\GymManagementBLL.csproj.CoreCompileInputs.cache
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementBLL\obj\Debug\net9.0\GymManag.CEDF2700.Up2Date
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementBLL\obj\Debug\net9.0\GymManagementBLL.dll
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementBLL\obj\Debug\net9.0\refint\GymManagementBLL.dll
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementBLL\obj\Debug\net9.0\GymManagementBLL.pdb
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementBLL\obj\Debug\net9.0\ref\GymManagementBLL.dll

@@ -1,0 +1,22 @@
+F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementDAL\bin\Debug\net9.0\GymManagementDAL.deps.json
+F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementDAL\bin\Debug\net9.0\GymManagementDAL.runtimeconfig.json
+F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementDAL\bin\Debug\net9.0\GymManagementDAL.dll
+F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementDAL\bin\Debug\net9.0\GymManagementDAL.pdb
+F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementDAL\obj\Debug\net9.0\GymManagementDAL.csproj.AssemblyReference.cache
+F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementDAL\obj\Debug\net9.0\GymManagementDAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementDAL\obj\Debug\net9.0\GymManagementDAL.AssemblyInfoInputs.cache
+F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementDAL\obj\Debug\net9.0\GymManagementDAL.AssemblyInfo.cs
+F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementDAL\obj\Debug\net9.0\GymManagementDAL.csproj.CoreCompileInputs.cache
+F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementDAL\obj\Debug\net9.0\GymManagementDAL.dll
+F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementDAL\obj\Debug\net9.0\refint\GymManagementDAL.dll
+F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementDAL\obj\Debug\net9.0\GymManagementDAL.pdb
+F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementDAL\obj\Debug\net9.0\GymManagementDAL.genruntimeconfig.cache
+F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementDAL\obj\Debug\net9.0\ref\GymManagementDAL.dll
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementDAL\obj\Debug\net9.0\GymManagementDAL.csproj.AssemblyReference.cache
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementDAL\obj\Debug\net9.0\GymManagementDAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementDAL\obj\Debug\net9.0\GymManagementDAL.AssemblyInfoInputs.cache
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementDAL\obj\Debug\net9.0\GymManagementDAL.AssemblyInfo.cs
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementDAL\obj\Debug\net9.0\GymManagementDAL.csproj.CoreCompileInputs.cache
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementDAL\obj\Debug\net9.0\GymManagementDAL.dll
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementDAL\obj\Debug\net9.0\refint\GymManagementDAL.dll
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementDAL\obj\Debug\net9.0\GymManagementDAL.pdb
