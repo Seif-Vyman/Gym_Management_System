@@ -165,13 +165,6 @@ namespace GymManagementBLL.Services.CLasses
                 return false;
             }
         }
-
-
-        #region Helper Methods
-
-        private bool IsValidEmail(string email) => _unitOfWork.GetRepository<Member>().GetAll(m => m.Email == email).Any();
-        private bool IsValidPhone(string Phone) => _unitOfWork.GetRepository<Member>().GetAll(m => m.Phone == Phone).Any();
-
         public bool RemoveMember(int MemberId)
         {
             var member = _unitOfWork.GetRepository<Member>().GetById(MemberId);
@@ -199,6 +192,13 @@ namespace GymManagementBLL.Services.CLasses
             }
 
         }
+
+        #region Helper Methods
+
+        private bool IsValidEmail(string email) => _unitOfWork.GetRepository<Member>().GetAll(m => m.Email == email).Any();
+        private bool IsValidPhone(string Phone) => _unitOfWork.GetRepository<Member>().GetAll(m => m.Phone == Phone).Any();
+
+        
 
         #endregion
     }
