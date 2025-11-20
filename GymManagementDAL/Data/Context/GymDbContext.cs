@@ -11,7 +11,7 @@ namespace GymManagementDAL.Data.Context
 {
     public class GymDbContext : DbContext
     {
-        public GymDbContext(DbContextOptions<GymDbContext> options) : base()
+        public GymDbContext(DbContextOptions<GymDbContext> options) : base(options)
         {
             
         }

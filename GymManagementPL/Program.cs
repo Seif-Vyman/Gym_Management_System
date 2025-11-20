@@ -1,7 +1,11 @@
 using GymManagementDAL.Data.Context;
 using GymManagementDAL.Repositories.Classes;
 using GymManagementDAL.Repositories.Interfaces;
+using GymManagementDAL.Data.DataSeed;
 using Microsoft.EntityFrameworkCore;
+using GymManagementBLL;
+using GymManagementBLL.Services.Interfaces;
+using GymManagementBLL.Services.CLasses;
 namespace GymManagementPL
 {
     public class Program
@@ -20,7 +24,22 @@ namespace GymManagementPL
             //builder.Services.AddScoped(typeof(IGenericRepository<>) , typeof(GenericRepository<>));
             //builder.Services.AddScoped<IPlanRepository, PlanRepository>();
             builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+            builder.Services.AddScoped<ISessionRepository, SessionRepository>();
+            builder.Services.AddAutoMapper(X => X.AddProfile(new MappingProfiles()));
+            builder.Services.AddScoped<IAnalyticService, AnalyticService>();
             var app = builder.Build();
+
+            #region Migrate Database - Data Seeding
+            
+            using var scope = app.Services.CreateScope();
+            var dbContext = scope.ServiceProvider.GetRequiredService<GymDbContext>();
+            var pendingMigrations = dbContext.Database.GetPendingMigrations();
+            if (pendingMigrations?.Any() ?? false)
+                dbContext.Database.Migrate();
+            GymDbContextSeeding.SeedData(dbContext);
+
+            #endregion
+
 
             // Configure the HTTP request pipeline.
             if (!app.Environment.IsDevelopment())
@@ -36,6 +55,12 @@ namespace GymManagementPL
             app.UseAuthorization();
 
             app.MapStaticAssets();
+
+            app.MapControllerRoute(
+                name: "Trainers",
+                pattern: "coach/{action}",
+                defaults: new { controller = "Trainer", action = "Index"});
+
             app.MapControllerRoute(
                 name: "default",
                 pattern: "{controller=Home}/{action=Index}/{id?}")

@@ -10,7 +10,7 @@ namespace GymManagementBLL.Services.Interfaces
 {
     public interface ITrainerService
     {
-        ICollection<TrainerViewModel> GetAllTrainers();
+        IEnumerable<TrainerViewModel> GetAllTrainers();
 
         TrainerViewModel? GetTrainerById(int id);
 

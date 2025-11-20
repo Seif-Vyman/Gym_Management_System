@@ -27,7 +27,7 @@ namespace GymManagementBLL.ViewModels.MemberViewModels
         [DataType(DataType.PhoneNumber)] // ui hint
         public string Phone { get; set; }
 
-        [Required(ErrorMessage = "Date Of Birth is required"]
+        [Required(ErrorMessage = "Date Of Birth is required")]
         [DataType(DataType.Date)] // ui hint
         public DateOnly DateOfBirth { get; set; }
 

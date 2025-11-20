@@ -20,3 +20,10 @@ F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementDAL\obj\De
 F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementDAL\obj\Debug\net9.0\GymManagementDAL.dll
 F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementDAL\obj\Debug\net9.0\refint\GymManagementDAL.dll
 F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementDAL\obj\Debug\net9.0\GymManagementDAL.pdb
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementDAL\bin\Debug\net9.0\GymManagementDAL.deps.json
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementDAL\bin\Debug\net9.0\GymManagementDAL.runtimeconfig.json
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementDAL\bin\Debug\net9.0\GymManagementDAL.dll
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementDAL\bin\Debug\net9.0\GymManagementDAL.pdb
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementDAL\obj\Debug\net9.0\GymManagementDAL.sourcelink.json
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementDAL\obj\Debug\net9.0\GymManagementDAL.genruntimeconfig.cache
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementDAL\obj\Debug\net9.0\ref\GymManagementDAL.dll

@@ -1,67 +1,104 @@
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\jquery\dist\jquery.min.map
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\jquery\dist\jquery.min.js
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\js\bootstrap.js
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\jquery-validation\LICENSE.md
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\jquery\dist\jquery.slim.min.js
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\css\site.css
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\jquery\dist\jquery.slim.js
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\jquery\LICENSE.txt
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap.css
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\jquery-validation\dist\additional-methods.js
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\jquery\dist\jquery.slim.min.map
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\js\site.js
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\jquery-validation\dist\jquery.validate.js
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\jquery\dist\jquery.js
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\favicon.ico
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
-F:\route_course\C#\MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\images\star.svg
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\Files\categories.json
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\images\why us images.svg
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\jquery\dist\jquery.min.map
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\Files\plans.json
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\jquery\dist\jquery.min.js
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\jquery-validation\LICENSE.md
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\jquery\dist\jquery.slim.min.js
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\css\site.css
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\jquery\dist\jquery.slim.js
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\jquery\LICENSE.txt
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\images\icon.svg
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\jquery-validation\dist\additional-methods.js
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\css\style.css
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\jquery\dist\jquery.slim.min.map
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\js\site.js
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\jquery\dist\jquery.js
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\favicon.ico
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
 wwwroot\css\site.css
+wwwroot\css\style.css
 wwwroot\favicon.ico
+wwwroot\Files\categories.json
+wwwroot\Files\plans.json
+wwwroot\images\about p1.jpg
+wwwroot\images\about p2.jpg
+wwwroot\images\about p3.jpg
+wwwroot\images\action dots.jpg
+wwwroot\images\card-header.jpg
+wwwroot\images\dumbbell.jpg
+wwwroot\images\edit.jpg
+wwwroot\images\Ellipse 7.jpg
+wwwroot\images\facebook-f.jpg
+wwwroot\images\feature icon.jpg
+wwwroot\images\icon.jpg
+wwwroot\images\icon.svg
+wwwroot\images\info 1.jpg
+wwwroot\images\line-md_phone-filled.jpg
+wwwroot\images\logo.jpg
+wwwroot\images\mdi_whatsapp.jpg
+wwwroot\images\message icon.jpg
+wwwroot\images\phone icon.jpg
+wwwroot\images\search icon.jpg
+wwwroot\images\star.svg
+wwwroot\images\Theo Vance.jpg
+wwwroot\images\twitter.jpg
+wwwroot\images\why us images.jpg
+wwwroot\images\why us images.svg
+wwwroot\images\workout 1.jpg
+wwwroot\images\workout 2.jpg
+wwwroot\images\workout 3.jpg
+wwwroot\images\x-circle 1.jpg
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map

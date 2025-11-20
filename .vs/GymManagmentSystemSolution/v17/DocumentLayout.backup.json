@@ -3,40 +3,143 @@
   "WorkspaceRootPath": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D36CAE78-E1BE-4E52-98A0-6031526FF5F8}|GymManagementBLL\\GymManagementBLL.csproj|f:\\route_course\\c#\\5- mvc\\gym\\gymmanagmentsystemsolution\\gymmanagementbll\\services\\classes\\planservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D36CAE78-E1BE-4E52-98A0-6031526FF5F8}|GymManagementBLL\\GymManagementBLL.csproj|solutionrelative:gymmanagementbll\\services\\classes\\planservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3FD71A11-B896-488C-A1AC-BE3B2B619E43}|GymManagementPL\\GymManagementPL.csproj|f:\\route_course\\c#\\5- mvc\\gym\\gymmanagmentsystemsolution\\gymmanagementpl\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FD71A11-B896-488C-A1AC-BE3B2B619E43}|GymManagementPL\\GymManagementPL.csproj|solutionrelative:gymmanagementpl\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D36CAE78-E1BE-4E52-98A0-6031526FF5F8}|GymManagementBLL\\GymManagementBLL.csproj|f:\\route_course\\c#\\5- mvc\\gym\\gymmanagmentsystemsolution\\gymmanagementbll\\services\\classes\\trainerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D36CAE78-E1BE-4E52-98A0-6031526FF5F8}|GymManagementBLL\\GymManagementBLL.csproj|solutionrelative:gymmanagementbll\\services\\classes\\trainerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3FD71A11-B896-488C-A1AC-BE3B2B619E43}|GymManagementPL\\GymManagementPL.csproj|f:\\route_course\\c#\\5- mvc\\gym\\gymmanagmentsystemsolution\\gymmanagementpl\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD71A11-B896-488C-A1AC-BE3B2B619E43}|GymManagementPL\\GymManagementPL.csproj|solutionrelative:gymmanagementpl\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D36CAE78-E1BE-4E52-98A0-6031526FF5F8}|GymManagementBLL\\GymManagementBLL.csproj|f:\\route_course\\c#\\5- mvc\\gym\\gymmanagmentsystemsolution\\gymmanagementbll\\services\\interfaces\\itrainerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D36CAE78-E1BE-4E52-98A0-6031526FF5F8}|GymManagementBLL\\GymManagementBLL.csproj|solutionrelative:gymmanagementbll\\services\\interfaces\\itrainerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3FD71A11-B896-488C-A1AC-BE3B2B619E43}|GymManagementPL\\GymManagementPL.csproj|f:\\route_course\\c#\\5- mvc\\gym\\gymmanagmentsystemsolution\\gymmanagementpl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD71A11-B896-488C-A1AC-BE3B2B619E43}|GymManagementPL\\GymManagementPL.csproj|solutionrelative:gymmanagementpl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D36CAE78-E1BE-4E52-98A0-6031526FF5F8}|GymManagementBLL\\GymManagementBLL.csproj|f:\\route_course\\c#\\5- mvc\\gym\\gymmanagmentsystemsolution\\gymmanagementbll\\services\\classes\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D36CAE78-E1BE-4E52-98A0-6031526FF5F8}|GymManagementBLL\\GymManagementBLL.csproj|solutionrelative:gymmanagementbll\\services\\classes\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8C3812B-CE58-432A-93A4-41CF81A64B3D}|GymManagementDAL\\GymManagementDAL.csproj|f:\\route_course\\c#\\5- mvc\\gym\\gymmanagmentsystemsolution\\gymmanagementdal\\data\\configurations\\trainerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8C3812B-CE58-432A-93A4-41CF81A64B3D}|GymManagementDAL\\GymManagementDAL.csproj|solutionrelative:gymmanagementdal\\data\\configurations\\trainerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8C3812B-CE58-432A-93A4-41CF81A64B3D}|GymManagementDAL\\GymManagementDAL.csproj|f:\\route_course\\c#\\5- mvc\\gym\\gymmanagmentsystemsolution\\gymmanagementdal\\repositories\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8C3812B-CE58-432A-93A4-41CF81A64B3D}|GymManagementDAL\\GymManagementDAL.csproj|solutionrelative:gymmanagementdal\\repositories\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8C3812B-CE58-432A-93A4-41CF81A64B3D}|GymManagementDAL\\GymManagementDAL.csproj|f:\\route_course\\c#\\5- mvc\\gym\\gymmanagmentsystemsolution\\gymmanagementdal\\repositories\\classes\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8C3812B-CE58-432A-93A4-41CF81A64B3D}|GymManagementDAL\\GymManagementDAL.csproj|solutionrelative:gymmanagementdal\\repositories\\classes\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D36CAE78-E1BE-4E52-98A0-6031526FF5F8}|GymManagementBLL\\GymManagementBLL.csproj|f:\\route_course\\c#\\5- mvc\\gym\\gymmanagmentsystemsolution\\gymmanagementbll\\services\\classes\\analyticservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36CAE78-E1BE-4E52-98A0-6031526FF5F8}|GymManagementBLL\\GymManagementBLL.csproj|solutionrelative:gymmanagementbll\\services\\classes\\analyticservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A8C3812B-CE58-432A-93A4-41CF81A64B3D}|GymManagementDAL\\GymManagementDAL.csproj|f:\\route_course\\c#\\5- mvc\\gym\\gymmanagmentsystemsolution\\gymmanagementdal\\repositories\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8C3812B-CE58-432A-93A4-41CF81A64B3D}|GymManagementDAL\\GymManagementDAL.csproj|solutionrelative:gymmanagementdal\\repositories\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8C3812B-CE58-432A-93A4-41CF81A64B3D}|GymManagementDAL\\GymManagementDAL.csproj|f:\\route_course\\c#\\5- mvc\\gym\\gymmanagmentsystemsolution\\gymmanagementdal\\data\\configurations\\gymuserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8C3812B-CE58-432A-93A4-41CF81A64B3D}|GymManagementDAL\\GymManagementDAL.csproj|solutionrelative:gymmanagementdal\\data\\configurations\\gymuserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D36CAE78-E1BE-4E52-98A0-6031526FF5F8}|GymManagementBLL\\GymManagementBLL.csproj|f:\\route_course\\c#\\5- mvc\\gym\\gymmanagmentsystemsolution\\gymmanagementbll\\services\\classes\\sessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36CAE78-E1BE-4E52-98A0-6031526FF5F8}|GymManagementBLL\\GymManagementBLL.csproj|solutionrelative:gymmanagementbll\\services\\classes\\sessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C3812B-CE58-432A-93A4-41CF81A64B3D}|GymManagementDAL\\GymManagementDAL.csproj|f:\\route_course\\c#\\5- mvc\\gym\\gymmanagmentsystemsolution\\gymmanagementdal\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C3812B-CE58-432A-93A4-41CF81A64B3D}|GymManagementDAL\\GymManagementDAL.csproj|solutionrelative:gymmanagementdal\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C3812B-CE58-432A-93A4-41CF81A64B3D}|GymManagementDAL\\GymManagementDAL.csproj|f:\\route_course\\c#\\5- mvc\\gym\\gymmanagmentsystemsolution\\gymmanagementdal\\entities\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C3812B-CE58-432A-93A4-41CF81A64B3D}|GymManagementDAL\\GymManagementDAL.csproj|solutionrelative:gymmanagementdal\\entities\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36CAE78-E1BE-4E52-98A0-6031526FF5F8}|GymManagementBLL\\GymManagementBLL.csproj|f:\\route_course\\c#\\5- mvc\\gym\\gymmanagmentsystemsolution\\gymmanagementbll\\viewmodels\\analyticsviewmodels\\analyticviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36CAE78-E1BE-4E52-98A0-6031526FF5F8}|GymManagementBLL\\GymManagementBLL.csproj|solutionrelative:gymmanagementbll\\viewmodels\\analyticsviewmodels\\analyticviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36CAE78-E1BE-4E52-98A0-6031526FF5F8}|GymManagementBLL\\GymManagementBLL.csproj|f:\\route_course\\c#\\5- mvc\\gym\\gymmanagmentsystemsolution\\gymmanagementbll\\services\\interfaces\\ianalyticservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36CAE78-E1BE-4E52-98A0-6031526FF5F8}|GymManagementBLL\\GymManagementBLL.csproj|solutionrelative:gymmanagementbll\\services\\interfaces\\ianalyticservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD71A11-B896-488C-A1AC-BE3B2B619E43}|GymManagementPL\\GymManagementPL.csproj|f:\\route_course\\c#\\5- mvc\\gym\\gymmanagmentsystemsolution\\gymmanagementpl\\controllers\\trainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD71A11-B896-488C-A1AC-BE3B2B619E43}|GymManagementPL\\GymManagementPL.csproj|solutionrelative:gymmanagementpl\\controllers\\trainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD71A11-B896-488C-A1AC-BE3B2B619E43}|GymManagementPL\\GymManagementPL.csproj|f:\\route_course\\c#\\5- mvc\\gym\\gymmanagmentsystemsolution\\gymmanagementpl\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD71A11-B896-488C-A1AC-BE3B2B619E43}|GymManagementPL\\GymManagementPL.csproj|solutionrelative:gymmanagementpl\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD71A11-B896-488C-A1AC-BE3B2B619E43}|GymManagementPL\\GymManagementPL.csproj|f:\\route_course\\c#\\5- mvc\\gym\\gymmanagmentsystemsolution\\gymmanagementpl\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3FD71A11-B896-488C-A1AC-BE3B2B619E43}|GymManagementPL\\GymManagementPL.csproj|solutionrelative:gymmanagementpl\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C3812B-CE58-432A-93A4-41CF81A64B3D}|GymManagementDAL\\GymManagementDAL.csproj|f:\\route_course\\c#\\5- mvc\\gym\\gymmanagmentsystemsolution\\gymmanagementdal\\data\\context\\gymdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C3812B-CE58-432A-93A4-41CF81A64B3D}|GymManagementDAL\\GymManagementDAL.csproj|solutionrelative:gymmanagementdal\\data\\context\\gymdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\seife\\AppData\\Local\\Temp\\.vsdbgsrc\\0ed1419525bf797fe006a3e2ccfde324da6d59e2bc7d8c5f85add9a7d2458cce\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36CAE78-E1BE-4E52-98A0-6031526FF5F8}|GymManagementBLL\\GymManagementBLL.csproj|f:\\route_course\\c#\\5- mvc\\gym\\gymmanagmentsystemsolution\\gymmanagementbll\\viewmodels\\sessionsveiwmodels\\sessionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36CAE78-E1BE-4E52-98A0-6031526FF5F8}|GymManagementBLL\\GymManagementBLL.csproj|solutionrelative:gymmanagementbll\\viewmodels\\sessionsveiwmodels\\sessionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36CAE78-E1BE-4E52-98A0-6031526FF5F8}|GymManagementBLL\\GymManagementBLL.csproj|f:\\route_course\\c#\\5- mvc\\gym\\gymmanagmentsystemsolution\\gymmanagementbll\\viewmodels\\memberviewmodels\\creatememberviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36CAE78-E1BE-4E52-98A0-6031526FF5F8}|GymManagementBLL\\GymManagementBLL.csproj|solutionrelative:gymmanagementbll\\viewmodels\\memberviewmodels\\creatememberviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36CAE78-E1BE-4E52-98A0-6031526FF5F8}|GymManagementBLL\\GymManagementBLL.csproj|f:\\route_course\\c#\\5- mvc\\gym\\gymmanagmentsystemsolution\\gymmanagementbll\\services\\interfaces\\isessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36CAE78-E1BE-4E52-98A0-6031526FF5F8}|GymManagementBLL\\GymManagementBLL.csproj|solutionrelative:gymmanagementbll\\services\\interfaces\\isessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C3812B-CE58-432A-93A4-41CF81A64B3D}|GymManagementDAL\\GymManagementDAL.csproj|f:\\route_course\\c#\\5- mvc\\gym\\gymmanagmentsystemsolution\\gymmanagementdal\\repositories\\classes\\sessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C3812B-CE58-432A-93A4-41CF81A64B3D}|GymManagementDAL\\GymManagementDAL.csproj|solutionrelative:gymmanagementdal\\repositories\\classes\\sessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36CAE78-E1BE-4E52-98A0-6031526FF5F8}|GymManagementBLL\\GymManagementBLL.csproj|f:\\route_course\\c#\\5- mvc\\gym\\gymmanagmentsystemsolution\\gymmanagementbll\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36CAE78-E1BE-4E52-98A0-6031526FF5F8}|GymManagementBLL\\GymManagementBLL.csproj|solutionrelative:gymmanagementbll\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36CAE78-E1BE-4E52-98A0-6031526FF5F8}|GymManagementBLL\\GymManagementBLL.csproj|f:\\route_course\\c#\\5- mvc\\gym\\gymmanagmentsystemsolution\\gymmanagementbll\\services\\classes\\trainerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36CAE78-E1BE-4E52-98A0-6031526FF5F8}|GymManagementBLL\\GymManagementBLL.csproj|solutionrelative:gymmanagementbll\\services\\classes\\trainerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36CAE78-E1BE-4E52-98A0-6031526FF5F8}|GymManagementBLL\\GymManagementBLL.csproj|f:\\route_course\\c#\\5- mvc\\gym\\gymmanagmentsystemsolution\\gymmanagementbll\\viewmodels\\sessionsveiwmodels\\updatesessionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36CAE78-E1BE-4E52-98A0-6031526FF5F8}|GymManagementBLL\\GymManagementBLL.csproj|solutionrelative:gymmanagementbll\\viewmodels\\sessionsveiwmodels\\updatesessionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C3812B-CE58-432A-93A4-41CF81A64B3D}|GymManagementDAL\\GymManagementDAL.csproj|f:\\route_course\\c#\\5- mvc\\gym\\gymmanagmentsystemsolution\\gymmanagementdal\\repositories\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C3812B-CE58-432A-93A4-41CF81A64B3D}|GymManagementDAL\\GymManagementDAL.csproj|solutionrelative:gymmanagementdal\\repositories\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C3812B-CE58-432A-93A4-41CF81A64B3D}|GymManagementDAL\\GymManagementDAL.csproj|f:\\route_course\\c#\\5- mvc\\gym\\gymmanagmentsystemsolution\\gymmanagementdal\\repositories\\interfaces\\isessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C3812B-CE58-432A-93A4-41CF81A64B3D}|GymManagementDAL\\GymManagementDAL.csproj|solutionrelative:gymmanagementdal\\repositories\\interfaces\\isessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36CAE78-E1BE-4E52-98A0-6031526FF5F8}|GymManagementBLL\\GymManagementBLL.csproj|f:\\route_course\\c#\\5- mvc\\gym\\gymmanagmentsystemsolution\\gymmanagementbll\\viewmodels\\sessionsveiwmodels\\createsessionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36CAE78-E1BE-4E52-98A0-6031526FF5F8}|GymManagementBLL\\GymManagementBLL.csproj|solutionrelative:gymmanagementbll\\viewmodels\\sessionsveiwmodels\\createsessionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C3812B-CE58-432A-93A4-41CF81A64B3D}|GymManagementDAL\\GymManagementDAL.csproj|f:\\route_course\\c#\\5- mvc\\gym\\gymmanagmentsystemsolution\\gymmanagementdal\\entities\\membersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C3812B-CE58-432A-93A4-41CF81A64B3D}|GymManagementDAL\\GymManagementDAL.csproj|solutionrelative:gymmanagementdal\\entities\\membersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C3812B-CE58-432A-93A4-41CF81A64B3D}|GymManagementDAL\\GymManagementDAL.csproj|f:\\route_course\\c#\\5- mvc\\gym\\gymmanagmentsystemsolution\\gymmanagementdal\\entities\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C3812B-CE58-432A-93A4-41CF81A64B3D}|GymManagementDAL\\GymManagementDAL.csproj|solutionrelative:gymmanagementdal\\entities\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C3812B-CE58-432A-93A4-41CF81A64B3D}|GymManagementDAL\\GymManagementDAL.csproj|f:\\route_course\\c#\\5- mvc\\gym\\gymmanagmentsystemsolution\\gymmanagementdal\\entities\\membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C3812B-CE58-432A-93A4-41CF81A64B3D}|GymManagementDAL\\GymManagementDAL.csproj|solutionrelative:gymmanagementdal\\entities\\membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C3812B-CE58-432A-93A4-41CF81A64B3D}|GymManagementDAL\\GymManagementDAL.csproj|f:\\route_course\\c#\\5- mvc\\gym\\gymmanagmentsystemsolution\\gymmanagementdal\\repositories\\classes\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C3812B-CE58-432A-93A4-41CF81A64B3D}|GymManagementDAL\\GymManagementDAL.csproj|solutionrelative:gymmanagementdal\\repositories\\classes\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36CAE78-E1BE-4E52-98A0-6031526FF5F8}|GymManagementBLL\\GymManagementBLL.csproj|f:\\route_course\\c#\\5- mvc\\gym\\gymmanagmentsystemsolution\\gymmanagementbll\\services\\classes\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36CAE78-E1BE-4E52-98A0-6031526FF5F8}|GymManagementBLL\\GymManagementBLL.csproj|solutionrelative:gymmanagementbll\\services\\classes\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36CAE78-E1BE-4E52-98A0-6031526FF5F8}|GymManagementBLL\\GymManagementBLL.csproj|f:\\route_course\\c#\\5- mvc\\gym\\gymmanagmentsystemsolution\\gymmanagementbll\\services\\interfaces\\imemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36CAE78-E1BE-4E52-98A0-6031526FF5F8}|GymManagementBLL\\GymManagementBLL.csproj|solutionrelative:gymmanagementbll\\services\\interfaces\\imemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36CAE78-E1BE-4E52-98A0-6031526FF5F8}|GymManagementBLL\\GymManagementBLL.csproj|f:\\route_course\\c#\\5- mvc\\gym\\gymmanagmentsystemsolution\\gymmanagementbll\\viewmodels\\planviewmodels\\updateplanviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36CAE78-E1BE-4E52-98A0-6031526FF5F8}|GymManagementBLL\\GymManagementBLL.csproj|solutionrelative:gymmanagementbll\\viewmodels\\planviewmodels\\updateplanviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36CAE78-E1BE-4E52-98A0-6031526FF5F8}|GymManagementBLL\\GymManagementBLL.csproj|f:\\route_course\\c#\\5- mvc\\gym\\gymmanagmentsystemsolution\\gymmanagementbll\\services\\classes\\planservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36CAE78-E1BE-4E52-98A0-6031526FF5F8}|GymManagementBLL\\GymManagementBLL.csproj|solutionrelative:gymmanagementbll\\services\\classes\\planservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36CAE78-E1BE-4E52-98A0-6031526FF5F8}|GymManagementBLL\\GymManagementBLL.csproj|f:\\route_course\\c#\\5- mvc\\gym\\gymmanagmentsystemsolution\\gymmanagementbll\\viewmodels\\planviewmodels\\planviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36CAE78-E1BE-4E52-98A0-6031526FF5F8}|GymManagementBLL\\GymManagementBLL.csproj|solutionrelative:gymmanagementbll\\viewmodels\\planviewmodels\\planviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C3812B-CE58-432A-93A4-41CF81A64B3D}|GymManagementDAL\\GymManagementDAL.csproj|f:\\route_course\\c#\\5- mvc\\gym\\gymmanagmentsystemsolution\\gymmanagementdal\\data\\dataseed\\gymdbcontextseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C3812B-CE58-432A-93A4-41CF81A64B3D}|GymManagementDAL\\GymManagementDAL.csproj|solutionrelative:gymmanagementdal\\data\\dataseed\\gymdbcontextseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +149,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 22,
           "Children": [
             {
               "$type": "Bookmark",
@@ -110,119 +213,455 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TrainerService.cs",
-              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementBLL\\Services\\CLasses\\TrainerService.cs",
-              "RelativeDocumentMoniker": "GymManagementBLL\\Services\\CLasses\\TrainerService.cs",
-              "ToolTip": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementBLL\\Services\\CLasses\\TrainerService.cs",
-              "RelativeToolTip": "GymManagementBLL\\Services\\CLasses\\TrainerService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T10:07:34.305Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PlanService.cs",
-              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementBLL\\Services\\CLasses\\PlanService.cs",
-              "RelativeDocumentMoniker": "GymManagementBLL\\Services\\CLasses\\PlanService.cs",
-              "ToolTip": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementBLL\\Services\\CLasses\\PlanService.cs",
-              "RelativeToolTip": "GymManagementBLL\\Services\\CLasses\\PlanService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T10:07:29.809Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ITrainerService.cs",
-              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementBLL\\Services\\Interfaces\\ITrainerService.cs",
-              "RelativeDocumentMoniker": "GymManagementBLL\\Services\\Interfaces\\ITrainerService.cs",
-              "ToolTip": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementBLL\\Services\\Interfaces\\ITrainerService.cs",
-              "RelativeToolTip": "GymManagementBLL\\Services\\Interfaces\\ITrainerService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T09:44:48.16Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TrainerConfiguration.cs",
-              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementDAL\\Data\\Configurations\\TrainerConfiguration.cs",
-              "RelativeDocumentMoniker": "GymManagementDAL\\Data\\Configurations\\TrainerConfiguration.cs",
-              "ToolTip": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementDAL\\Data\\Configurations\\TrainerConfiguration.cs",
-              "RelativeToolTip": "GymManagementDAL\\Data\\Configurations\\TrainerConfiguration.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T09:44:37.253Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MemberService.cs",
-              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementBLL\\Services\\CLasses\\MemberService.cs",
-              "RelativeDocumentMoniker": "GymManagementBLL\\Services\\CLasses\\MemberService.cs",
-              "ToolTip": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementBLL\\Services\\CLasses\\MemberService.cs",
-              "RelativeToolTip": "GymManagementBLL\\Services\\CLasses\\MemberService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T09:39:58.755Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementDAL\\Repositories\\Interfaces\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "GymManagementDAL\\Repositories\\Interfaces\\IGenericRepository.cs",
-              "ToolTip": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementDAL\\Repositories\\Interfaces\\IGenericRepository.cs",
-              "RelativeToolTip": "GymManagementDAL\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "DocumentIndex": 6,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementDAL\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "GymManagementDAL\\Entities\\BaseEntity.cs",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementDAL\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "GymManagementDAL\\Entities\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T09:38:45.135Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementDAL\\Repositories\\Classes\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "GymManagementDAL\\Repositories\\Classes\\UnitOfWork.cs",
-              "ToolTip": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementDAL\\Repositories\\Classes\\UnitOfWork.cs",
-              "RelativeToolTip": "GymManagementDAL\\Repositories\\Classes\\UnitOfWork.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T09:36:53.91Z",
+              "WhenOpened": "2025-11-20T03:37:01.707Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "Member.cs",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementDAL\\Entities\\Member.cs",
+              "RelativeDocumentMoniker": "GymManagementDAL\\Entities\\Member.cs",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementDAL\\Entities\\Member.cs",
+              "RelativeToolTip": "GymManagementDAL\\Entities\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T03:36:56.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnalyticService.cs",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementBLL\\Services\\CLasses\\AnalyticService.cs",
+              "RelativeDocumentMoniker": "GymManagementBLL\\Services\\CLasses\\AnalyticService.cs",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementBLL\\Services\\CLasses\\AnalyticService.cs*",
+              "RelativeToolTip": "GymManagementBLL\\Services\\CLasses\\AnalyticService.cs*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwB4AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T03:32:28.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SessionService.cs",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementBLL\\Services\\CLasses\\SessionService.cs",
+              "RelativeDocumentMoniker": "GymManagementBLL\\Services\\CLasses\\SessionService.cs",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementBLL\\Services\\CLasses\\SessionService.cs",
+              "RelativeToolTip": "GymManagementBLL\\Services\\CLasses\\SessionService.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAlwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T14:29:41.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementDAL\\Repositories\\Interfaces\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "GymManagementDAL\\Repositories\\Interfaces\\IUnitOfWork.cs",
               "ToolTip": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementDAL\\Repositories\\Interfaces\\IUnitOfWork.cs",
               "RelativeToolTip": "GymManagementDAL\\Repositories\\Interfaces\\IUnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T09:34:47.459Z",
+              "WhenOpened": "2025-11-18T14:54:09.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementPL\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "GymManagementPL\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementPL\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "GymManagementPL\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T23:41:21.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementPL\\Program.cs",
+              "RelativeDocumentMoniker": "GymManagementPL\\Program.cs",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementPL\\Program.cs*",
+              "RelativeToolTip": "GymManagementPL\\Program.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwBwAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T13:34:02.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementPL\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "GymManagementPL\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementPL\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "GymManagementPL\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAiwI0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-20T00:16:23.456Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "GymUserConfiguration.cs",
-              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementDAL\\Data\\Configurations\\GymUserConfiguration.cs",
-              "RelativeDocumentMoniker": "GymManagementDAL\\Data\\Configurations\\GymUserConfiguration.cs",
-              "ToolTip": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementDAL\\Data\\Configurations\\GymUserConfiguration.cs",
-              "RelativeToolTip": "GymManagementDAL\\Data\\Configurations\\GymUserConfiguration.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Title": "AnalyticViewModel.cs",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementBLL\\ViewModels\\AnalyticsViewModels\\AnalyticViewModel.cs",
+              "RelativeDocumentMoniker": "GymManagementBLL\\ViewModels\\AnalyticsViewModels\\AnalyticViewModel.cs",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementBLL\\ViewModels\\AnalyticsViewModels\\AnalyticViewModel.cs*",
+              "RelativeToolTip": "GymManagementBLL\\ViewModels\\AnalyticsViewModels\\AnalyticViewModel.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T18:42:53.362Z",
+              "WhenOpened": "2025-11-20T03:30:00.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAnalyticService.cs",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementBLL\\Services\\Interfaces\\IAnalyticService.cs",
+              "RelativeDocumentMoniker": "GymManagementBLL\\Services\\Interfaces\\IAnalyticService.cs",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementBLL\\Services\\Interfaces\\IAnalyticService.cs*",
+              "RelativeToolTip": "GymManagementBLL\\Services\\Interfaces\\IAnalyticService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T03:31:44.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TrainerController.cs",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementPL\\Controllers\\TrainerController.cs",
+              "RelativeDocumentMoniker": "GymManagementPL\\Controllers\\TrainerController.cs",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementPL\\Controllers\\TrainerController.cs*",
+              "RelativeToolTip": "GymManagementPL\\Controllers\\TrainerController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T03:08:34.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementPL\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "GymManagementPL\\Controllers\\MemberController.cs",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementPL\\Controllers\\MemberController.cs*",
+              "RelativeToolTip": "GymManagementPL\\Controllers\\MemberController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T03:06:08.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "style.css",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementPL\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "GymManagementPL\\wwwroot\\css\\style.css",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementPL\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "GymManagementPL\\wwwroot\\css\\style.css",
+              "ViewState": "AgIAADoCAAAAAAAAAAAiwEkCAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-20T02:40:05.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateMemberViewModel.cs",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementBLL\\ViewModels\\MemberViewModels\\CreateMemberViewModel.cs",
+              "RelativeDocumentMoniker": "GymManagementBLL\\ViewModels\\MemberViewModels\\CreateMemberViewModel.cs",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementBLL\\ViewModels\\MemberViewModels\\CreateMemberViewModel.cs",
+              "RelativeToolTip": "GymManagementBLL\\ViewModels\\MemberViewModels\\CreateMemberViewModel.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T14:42:15.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SessionViewModel.cs",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementBLL\\ViewModels\\SessionsVeiwModels\\SessionViewModel.cs",
+              "RelativeDocumentMoniker": "GymManagementBLL\\ViewModels\\SessionsVeiwModels\\SessionViewModel.cs",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementBLL\\ViewModels\\SessionsVeiwModels\\SessionViewModel.cs",
+              "RelativeToolTip": "GymManagementBLL\\ViewModels\\SessionsVeiwModels\\SessionViewModel.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T13:56:20.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\seife\\AppData\\Local\\Temp\\.vsdbgsrc\\0ed1419525bf797fe006a3e2ccfde324da6d59e2bc7d8c5f85add9a7d2458cce\\Program.cs",
+              "ToolTip": "C:\\Users\\seife\\AppData\\Local\\Temp\\.vsdbgsrc\\0ed1419525bf797fe006a3e2ccfde324da6d59e2bc7d8c5f85add9a7d2458cce\\Program.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T00:17:02.071Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GymDbContext.cs",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementDAL\\Data\\Context\\GymDbContext.cs",
+              "RelativeDocumentMoniker": "GymManagementDAL\\Data\\Context\\GymDbContext.cs",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementDAL\\Data\\Context\\GymDbContext.cs",
+              "RelativeToolTip": "GymManagementDAL\\Data\\Context\\GymDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBUAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T13:28:58.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TrainerService.cs",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementBLL\\Services\\CLasses\\TrainerService.cs",
+              "RelativeDocumentMoniker": "GymManagementBLL\\Services\\CLasses\\TrainerService.cs",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementBLL\\Services\\CLasses\\TrainerService.cs",
+              "RelativeToolTip": "GymManagementBLL\\Services\\CLasses\\TrainerService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T14:34:52.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ISessionService.cs",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementBLL\\Services\\Interfaces\\ISessionService.cs",
+              "RelativeDocumentMoniker": "GymManagementBLL\\Services\\Interfaces\\ISessionService.cs",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementBLL\\Services\\Interfaces\\ISessionService.cs",
+              "RelativeToolTip": "GymManagementBLL\\Services\\Interfaces\\ISessionService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBMAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T14:29:02.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MappingProfiles.cs",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementBLL\\MappingProfiles.cs",
+              "RelativeDocumentMoniker": "GymManagementBLL\\MappingProfiles.cs",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementBLL\\MappingProfiles.cs",
+              "RelativeToolTip": "GymManagementBLL\\MappingProfiles.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADgvxUAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T17:24:14.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SessionRepository.cs",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementDAL\\Repositories\\Classes\\SessionRepository.cs",
+              "RelativeDocumentMoniker": "GymManagementDAL\\Repositories\\Classes\\SessionRepository.cs",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementDAL\\Repositories\\Classes\\SessionRepository.cs",
+              "RelativeToolTip": "GymManagementDAL\\Repositories\\Classes\\SessionRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T14:45:28.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UpdateSessionViewModel.cs",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementBLL\\ViewModels\\SessionsVeiwModels\\UpdateSessionViewModel.cs",
+              "RelativeDocumentMoniker": "GymManagementBLL\\ViewModels\\SessionsVeiwModels\\UpdateSessionViewModel.cs",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementBLL\\ViewModels\\SessionsVeiwModels\\UpdateSessionViewModel.cs",
+              "RelativeToolTip": "GymManagementBLL\\ViewModels\\SessionsVeiwModels\\UpdateSessionViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T16:38:40.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CreateSessionViewModel.cs",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementBLL\\ViewModels\\SessionsVeiwModels\\CreateSessionViewModel.cs",
+              "RelativeDocumentMoniker": "GymManagementBLL\\ViewModels\\SessionsVeiwModels\\CreateSessionViewModel.cs",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementBLL\\ViewModels\\SessionsVeiwModels\\CreateSessionViewModel.cs",
+              "RelativeToolTip": "GymManagementBLL\\ViewModels\\SessionsVeiwModels\\CreateSessionViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T15:55:26.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ISessionRepository.cs",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementDAL\\Repositories\\Interfaces\\ISessionRepository.cs",
+              "RelativeDocumentMoniker": "GymManagementDAL\\Repositories\\Interfaces\\ISessionRepository.cs",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementDAL\\Repositories\\Interfaces\\ISessionRepository.cs",
+              "RelativeToolTip": "GymManagementDAL\\Repositories\\Interfaces\\ISessionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T14:44:06.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementDAL\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "GymManagementDAL\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementDAL\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "GymManagementDAL\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T15:03:47.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MemberSession.cs",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementDAL\\Entities\\MemberSession.cs",
+              "RelativeDocumentMoniker": "GymManagementDAL\\Entities\\MemberSession.cs",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementDAL\\Entities\\MemberSession.cs",
+              "RelativeToolTip": "GymManagementDAL\\Entities\\MemberSession.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T15:06:49.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Membership.cs",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementDAL\\Entities\\Membership.cs",
+              "RelativeDocumentMoniker": "GymManagementDAL\\Entities\\Membership.cs",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementDAL\\Entities\\Membership.cs",
+              "RelativeToolTip": "GymManagementDAL\\Entities\\Membership.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T15:06:57.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementDAL\\Repositories\\Classes\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "GymManagementDAL\\Repositories\\Classes\\UnitOfWork.cs",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementDAL\\Repositories\\Classes\\UnitOfWork.cs",
+              "RelativeToolTip": "GymManagementDAL\\Repositories\\Classes\\UnitOfWork.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T13:50:21.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Session.cs",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementDAL\\Entities\\Session.cs",
+              "RelativeDocumentMoniker": "GymManagementDAL\\Entities\\Session.cs",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementDAL\\Entities\\Session.cs",
+              "RelativeToolTip": "GymManagementDAL\\Entities\\Session.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T14:32:23.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MemberService.cs",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementBLL\\Services\\CLasses\\MemberService.cs",
+              "RelativeDocumentMoniker": "GymManagementBLL\\Services\\CLasses\\MemberService.cs",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementBLL\\Services\\CLasses\\MemberService.cs",
+              "RelativeToolTip": "GymManagementBLL\\Services\\CLasses\\MemberService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T14:30:41.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IMemberService.cs",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementBLL\\Services\\Interfaces\\IMemberService.cs",
+              "RelativeDocumentMoniker": "GymManagementBLL\\Services\\Interfaces\\IMemberService.cs",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementBLL\\Services\\Interfaces\\IMemberService.cs",
+              "RelativeToolTip": "GymManagementBLL\\Services\\Interfaces\\IMemberService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T14:42:24.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UpdatePlanViewModel.cs",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementBLL\\ViewModels\\PlanViewModels\\UpdatePlanViewModel.cs",
+              "RelativeDocumentMoniker": "GymManagementBLL\\ViewModels\\PlanViewModels\\UpdatePlanViewModel.cs",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementBLL\\ViewModels\\PlanViewModels\\UpdatePlanViewModel.cs",
+              "RelativeToolTip": "GymManagementBLL\\ViewModels\\PlanViewModels\\UpdatePlanViewModel.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T14:42:09.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PlanService.cs",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementBLL\\Services\\CLasses\\PlanService.cs",
+              "RelativeDocumentMoniker": "GymManagementBLL\\Services\\CLasses\\PlanService.cs",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementBLL\\Services\\CLasses\\PlanService.cs",
+              "RelativeToolTip": "GymManagementBLL\\Services\\CLasses\\PlanService.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T14:30:31.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PlanViewModel.cs",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementBLL\\ViewModels\\PlanViewModels\\PlanViewModel.cs",
+              "RelativeDocumentMoniker": "GymManagementBLL\\ViewModels\\PlanViewModels\\PlanViewModel.cs",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementBLL\\ViewModels\\PlanViewModels\\PlanViewModel.cs",
+              "RelativeToolTip": "GymManagementBLL\\ViewModels\\PlanViewModels\\PlanViewModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T13:58:15.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GymDbContextSeeding.cs",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementDAL\\Data\\DataSeed\\GymDbContextSeeding.cs",
+              "RelativeDocumentMoniker": "GymManagementDAL\\Data\\DataSeed\\GymDbContextSeeding.cs",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\GYM\\GymManagmentSystemSolution\\GymManagementDAL\\Data\\DataSeed\\GymDbContextSeeding.cs",
+              "RelativeToolTip": "GymManagementDAL\\Data\\DataSeed\\GymDbContextSeeding.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwA0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T13:12:56.57Z",
               "EditorCaption": ""
             }
           ]
