@@ -27,7 +27,7 @@ namespace GymManagementBLL.Services.CLasses
         public IEnumerable<SessionViewModel> GetAllSessions()
         {
             var sessions = _unitOfWork.SessionRepository.GetAllSessionsWithTrainerCategory();
-            if (sessions.Any()) return [];
+            if (!sessions.Any()) return [];
 
             //return sessions.Select(s => new SessionViewModel
             //{
@@ -126,6 +126,17 @@ namespace GymManagementBLL.Services.CLasses
                 return false;
             }
         }
+        public IEnumerable<TrainerSelectViewModel> GetTrainerForDropDown()
+        {
+            var trainers = _unitOfWork.GetRepository<Trainer>().GetAll();
+            return _mapper.Map<IEnumerable<TrainerSelectViewModel>>(trainers);
+        }
+
+        public IEnumerable<CategorySelectViewModel> GetCategoryForDropDown()
+        {
+            var categories = _unitOfWork.GetRepository<Category>().GetAll();
+            return _mapper.Map<IEnumerable<CategorySelectViewModel>>(categories);
+        }
 
         #region Helper Methods
 
@@ -156,9 +167,11 @@ namespace GymManagementBLL.Services.CLasses
             return _unitOfWork.GetRepository<Category>().GetById(CategoryId) is not null;
         }
 
-        bool IsDateTimeValid(DateTime StartDate, DateTime EndDate) => StartDate < EndDate;
+        bool IsDateTimeValid(DateTime StartDate, DateTime EndDate) => StartDate < EndDate && StartDate > DateTime.Now;
 
         
+
+
 
 
         #endregion

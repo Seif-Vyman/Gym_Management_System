@@ -17,7 +17,14 @@ namespace GymManagementBLL.ViewModels.SessionsVeiwModels
         public int Capcity { get; set; }
         public int AvailableSlots { get; set; }
         #region Computed Properties
-
+        public string Duration
+        {
+            get
+            {
+                var duration = EndDate - StartDate;
+                return $"{(int)duration.TotalHours} hrs {duration.Minutes} mins";
+            }
+        }
         public string DateDisplay => $"{StartDate:MMM dd, yyyy}";
         public string TimeRangeDisplay => $"{StartDate:hh:mm tt} - {EndDate:hh:mm tt}";
 

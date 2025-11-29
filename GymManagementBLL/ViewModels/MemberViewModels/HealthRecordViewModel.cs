@@ -16,7 +16,7 @@ namespace GymManagementBLL.ViewModels.MemberViewModels
         [Required(ErrorMessage = "Weight is required.")]
         public decimal Weight { get; set; }
         [Required(ErrorMessage = "Blood type is required.")]
-        [Range(1, 3, ErrorMessage = "Blood type must be between 1 and 3 characters.")]
+        [StringLength(3, MinimumLength = 1, ErrorMessage = "Blood type must be between 1 and 3 characters.")]
         public string BloodType { get; set; } = null!;
 
         public string? Note { get; set; }

@@ -10,6 +10,8 @@ namespace GymManagementBLL.ViewModels.TrainerViewModel
 {
     public class TrainerToUpdateViewModel
     {
+        public string Name { get; set; } = null!;
+
         [Required(ErrorMessage = "Email is required")]
         [EmailAddress(ErrorMessage = "Invalid email format.")]
         [DataType(DataType.EmailAddress)] // ui hint

@@ -27,6 +27,10 @@ namespace GymManagementPL
             builder.Services.AddScoped<ISessionRepository, SessionRepository>();
             builder.Services.AddAutoMapper(X => X.AddProfile(new MappingProfiles()));
             builder.Services.AddScoped<IAnalyticService, AnalyticService>();
+            builder.Services.AddScoped<IMemberService, MemberService>();
+            builder.Services.AddScoped<ITrainerService, TrainerService>();
+            builder.Services.AddScoped<IPlanService, PlanService>();
+            builder.Services.AddScoped<ISessionService, SessionService>();
             var app = builder.Build();
 
             #region Migrate Database - Data Seeding
@@ -58,7 +62,7 @@ namespace GymManagementPL
 
             app.MapControllerRoute(
                 name: "Trainers",
-                pattern: "coach/{action}",
+                pattern: "Trainer/{action}/{id?}",
                 defaults: new { controller = "Trainer", action = "Index"});
 
             app.MapControllerRoute(

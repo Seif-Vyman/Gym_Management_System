@@ -36,12 +36,92 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[F:/route_course/C\#/5- MVC/GYM/GymManagmentSystemSolution/GymManagementPL/Views/Member/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/route_course/C\#/5- MVC/GYM/GymManagmentSystemSolution/GymManagementPL/Views/Member/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/route_course/C\#/5- MVC/GYM/GymManagmentSystemSolution/GymManagementPL/Views/Member/HealthRecord.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXEhlYWx0aFJlY29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/route_course/C\#/5- MVC/GYM/GymManagmentSystemSolution/GymManagementPL/Views/Member/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/route_course/C\#/5- MVC/GYM/GymManagmentSystemSolution/GymManagementPL/Views/Member/MemberDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXE1lbWJlckRldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/route_course/C\#/5- MVC/GYM/GymManagmentSystemSolution/GymManagementPL/Views/Member/MemberEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXE1lbWJlckVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/route_course/C\#/5- MVC/GYM/GymManagmentSystemSolution/GymManagementPL/Views/Plan/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhblxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/route_course/C\#/5- MVC/GYM/GymManagmentSystemSolution/GymManagementPL/Views/Plan/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhblxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/route_course/C\#/5- MVC/GYM/GymManagmentSystemSolution/GymManagementPL/Views/Plan/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/route_course/C\#/5- MVC/GYM/GymManagmentSystemSolution/GymManagementPL/Views/Session/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Vzc2lvblxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/route_course/C\#/5- MVC/GYM/GymManagmentSystemSolution/GymManagementPL/Views/Session/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Vzc2lvblxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/route_course/C\#/5- MVC/GYM/GymManagmentSystemSolution/GymManagementPL/Views/Session/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Vzc2lvblxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/route_course/C\#/5- MVC/GYM/GymManagmentSystemSolution/GymManagementPL/Views/Session/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Vzc2lvblxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/route_course/C\#/5- MVC/GYM/GymManagmentSystemSolution/GymManagementPL/Views/Session/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Vzc2lvblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [F:/route_course/C\#/5- MVC/GYM/GymManagmentSystemSolution/GymManagementPL/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[F:/route_course/C\#/5- MVC/GYM/GymManagmentSystemSolution/GymManagementPL/Views/Shared/_AlertBoxScripts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BbGVydEJveFNjcmlwdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [F:/route_course/C\#/5- MVC/GYM/GymManagmentSystemSolution/GymManagementPL/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/route_course/C\#/5- MVC/GYM/GymManagmentSystemSolution/GymManagementPL/Views/Trainer/CreateTrainer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5lclxDcmVhdGVUcmFpbmVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/route_course/C\#/5- MVC/GYM/GymManagmentSystemSolution/GymManagementPL/Views/Trainer/DeleteTrainer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5lclxEZWxldGVUcmFpbmVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/route_course/C\#/5- MVC/GYM/GymManagmentSystemSolution/GymManagementPL/Views/Trainer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5lclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/route_course/C\#/5- MVC/GYM/GymManagmentSystemSolution/GymManagementPL/Views/Trainer/TrainerDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5lclxUcmFpbmVyRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/route_course/C\#/5- MVC/GYM/GymManagmentSystemSolution/GymManagementPL/Views/Trainer/TrainerEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5lclxUcmFpbmVyRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [F:/route_course/C\#/5- MVC/GYM/GymManagmentSystemSolution/GymManagementPL/Views/_ViewImports.cshtml]

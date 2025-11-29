@@ -97,8 +97,12 @@ namespace GymManagementBLL.Services.CLasses
         {
             try
             {
-                if (IsValidEmail(updatedModel.Email) || IsValidPhone(updatedModel.Phone)) return false;
-
+                var emailExists = _unitOfWork.GetRepository<Member>()
+                    .GetAll(X => X.Email == updatedModel.Email && X.Id != Id);
+                var phoneExists = _unitOfWork.GetRepository<Member>()
+                    .GetAll(X => X.Phone == updatedModel.Phone && X.Id != Id);
+                if (emailExists.Any() || phoneExists.Any())
+                    return false;
                 var member = _unitOfWork.GetRepository<Member>().GetById(Id);
                 if (member is null) return false;
 
@@ -115,9 +119,13 @@ namespace GymManagementBLL.Services.CLasses
         {
             var member = _unitOfWork.GetRepository<Member>().GetById(MemberId);
             if (member is null) return false;
-            var HasActiveMemberSession = _unitOfWork.GetRepository<MemberSession>()
-                .GetAll(m => m.MemberId == MemberId && m.Session.StartDate > DateTime.Now).Any();
-            if (HasActiveMemberSession) return false;
+            
+            var sessionIds = _unitOfWork.GetRepository<MemberSession>()
+                .GetAll(X => X.MemberId == MemberId).Select(X => X.SessionId);
+
+            var HasFutureSessions = _unitOfWork.GetRepository<Session>()
+                .GetAll(S => sessionIds.Contains(S.Id) && S.StartDate > DateTime.Now).Any();
+            if (HasFutureSessions) return false;
 
             var memberships = _unitOfWork.GetRepository<Membership>().GetAll(m => m.MemberId == MemberId);
             try

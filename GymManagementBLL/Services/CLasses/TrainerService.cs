@@ -97,7 +97,11 @@ namespace GymManagementBLL.Services.CLasses
         public bool UpdateTrainer(int id, TrainerToUpdateViewModel trainerToUpdateViewModel)
         {
             var trainer = _unitOfWork.GetRepository<Trainer>().GetById(id);
-            if(trainer is null || IsValidEmail(trainer.Email) || IsValidPhone(trainer.Phone)) return false;
+            var emailExists = _unitOfWork.GetRepository<Member>()
+                    .GetAll(X => X.Email == trainerToUpdateViewModel.Email && X.Id != id);
+            var phoneExists = _unitOfWork.GetRepository<Member>()
+                .GetAll(X => X.Phone == trainerToUpdateViewModel.Phone && X.Id != id);
+            if (emailExists.Any() || phoneExists.Any()) return false;
             try
             {
                 //trainer.Email = trainerToUpdateViewModel.Email;
