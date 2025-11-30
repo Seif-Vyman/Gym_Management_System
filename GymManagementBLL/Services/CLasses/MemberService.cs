@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using GymManagementBLL.Services.AttachmentService;
 using GymManagementBLL.Services.Interfaces;
 using GymManagementBLL.ViewModels.MemberViewModels;
 using GymManagementDAL.Entities;
@@ -16,6 +17,7 @@ namespace GymManagementBLL.Services.CLasses
     {
         private readonly IUnitOfWork _unitOfWork;
         private readonly IMapper _maaper;
+        private readonly IAttachmentService _attachmentService;
 
         //private readonly IGenericRepository<Member> _memberRepository;
         //private readonly IGenericRepository<Membership> _membershipRepository;
@@ -25,10 +27,11 @@ namespace GymManagementBLL.Services.CLasses
 
         // don't ask clr for creating object from service without register
         // CLR Will Inject address of object in constructor
-        public MemberService(IUnitOfWork unitOfWork, IMapper maaper)
+        public MemberService(IUnitOfWork unitOfWork, IMapper maaper, IAttachmentService attachmentService)
         {
             _unitOfWork = unitOfWork;
             _maaper = maaper;
+            _attachmentService = attachmentService;
         }
         public IEnumerable<MemberViewModel> GetAllMembers()
         {
@@ -66,9 +69,17 @@ namespace GymManagementBLL.Services.CLasses
             {
                 if (IsValidEmail(createMemberViewModel.Email) || IsValidPhone(createMemberViewModel.Phone)) return false;
 
+                var PhotoName = _attachmentService.Upload("members", createMemberViewModel.PhotoFile);
+                if(string.IsNullOrEmpty(PhotoName)) return false;
+
                 var MemberEntity = _maaper.Map<Member>(createMemberViewModel); 
+                MemberEntity.Photo = PhotoName;
                 _unitOfWork.GetRepository<Member>().Add(MemberEntity);
-                return _unitOfWork.SaveChanges() > 0;
+                bool isCreated =  _unitOfWork.SaveChanges() > 0;
+                if(!isCreated)
+                    _attachmentService.Delete("members", PhotoName);
+
+                return isCreated;
             }
             catch (Exception)
             {
@@ -138,7 +149,10 @@ namespace GymManagementBLL.Services.CLasses
                     }
                 }
                 _unitOfWork.GetRepository<Member>().Delete(member);
-                return _unitOfWork.SaveChanges() > 0;
+                bool isDeleted = _unitOfWork.SaveChanges() > 0;
+                if(isDeleted)
+                    _attachmentService.Delete("members", member.Photo);
+                return isDeleted;
             }
             catch (Exception)
             {

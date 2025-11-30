@@ -6,6 +6,9 @@ using Microsoft.EntityFrameworkCore;
 using GymManagementBLL;
 using GymManagementBLL.Services.Interfaces;
 using GymManagementBLL.Services.CLasses;
+using GymManagementBLL.Services.AttachmentService;
+using Microsoft.AspNetCore.Identity;
+using GymManagementDAL.Entities;
 namespace GymManagementPL
 {
     public class Program
@@ -31,16 +34,35 @@ namespace GymManagementPL
             builder.Services.AddScoped<ITrainerService, TrainerService>();
             builder.Services.AddScoped<IPlanService, PlanService>();
             builder.Services.AddScoped<ISessionService, SessionService>();
+            builder.Services.AddScoped<IAttachmentService, AttachmentService>();
+            builder.Services.AddScoped<IAccountService, AccountService>();
+            builder.Services.AddIdentity<ApplicationUser, IdentityRole>(config =>
+            {
+                config.User.RequireUniqueEmail = true;
+            }).AddEntityFrameworkStores<GymDbContext>();
+            builder.Services.ConfigureApplicationCookie(config =>
+            {
+                config.LoginPath = "/Account/Login";    // default
+                config.AccessDeniedPath = "/Account/AccessDenied";  //default
+            });
+
+
+
+
             var app = builder.Build();
 
             #region Migrate Database - Data Seeding
             
             using var scope = app.Services.CreateScope();
             var dbContext = scope.ServiceProvider.GetRequiredService<GymDbContext>();
+            var roleManager = scope.ServiceProvider.GetRequiredService<RoleManager<IdentityRole>>();
+            var userManager = scope.ServiceProvider.GetRequiredService<UserManager<ApplicationUser>>();
+
             var pendingMigrations = dbContext.Database.GetPendingMigrations();
             if (pendingMigrations?.Any() ?? false)
                 dbContext.Database.Migrate();
             GymDbContextSeeding.SeedData(dbContext);
+            IdentityDbContext.SeedData(roleManager, userManager);
 
             #endregion
 
@@ -56,6 +78,7 @@ namespace GymManagementPL
             app.UseHttpsRedirection();
             app.UseRouting();
 
+            app.UseAuthentication();
             app.UseAuthorization();
 
             app.MapStaticAssets();
@@ -67,7 +90,7 @@ namespace GymManagementPL
 
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Home}/{action=Index}/{id?}")
+                pattern: "{controller=Account}/{action=Login}/{id?}")
                 .WithStaticAssets();
 
             app.Run();

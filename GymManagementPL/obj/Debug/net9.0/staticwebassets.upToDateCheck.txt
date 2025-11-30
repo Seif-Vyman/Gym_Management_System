@@ -66,6 +66,8 @@ F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot
 F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
 F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
 F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+F:\route_course\C#\5- MVC\GYM\GymManagmentSystemSolution\GymManagementPL\wwwroot\css\AuthStyle.css
+wwwroot\css\AuthStyle.css
 wwwroot\css\site.css
 wwwroot\css\style.css
 wwwroot\favicon.ico

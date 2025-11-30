@@ -11,7 +11,7 @@
 
                 <form asp-action="DeleteConfirmed" method="post" class="mt-4">
                     <div class="buttons d-flex justify-content-between gap-3">
-                        <input hidden readonly name="id" value="@ViewBag.MemberId"
+                        <input hidden readonly name="id" value="@ViewBag.MemberId" />
                         <a asp-controller="Member" asp-action="Index" class="btn-outline flex-fill">NO</a>
                         <button type="submit" class="btn-fill flex-fill">Yes</button>
                     </div>
